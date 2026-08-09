@@ -15,6 +15,8 @@
 
 *Built to give everyone access to powerful AI without limits.*
 
+Ca: 0xff23d2eab1e714949afa26851855a0a70e51bff3
+
 </div>
 
 ---
